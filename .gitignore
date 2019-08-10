@@ -12,7 +12,6 @@ plot.py
 *.so
 *.Lib
 *.xcf
-*.xml
 
 eigen/
 scr_server/
