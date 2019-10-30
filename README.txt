@@ -1,3 +1,14 @@
+Jerry the race car driver
+-------------------------
+
+Code example of a TORCS controller based on 
+a simple approach, mostly inspired by the following paper:
+
+Amodular parametric architecture for the torcs racing engine.
+Onieva, E., D. A. Pelta, J. Alonso, V. Milanés, and J. Pérez (2009).
+In 2009 IEEE Symposium on Computational Intelligence and Games, pp. 256–262. IEEE.
+
+
 INSTALLATION
 ------------
 
